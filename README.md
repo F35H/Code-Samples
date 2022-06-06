@@ -1,0 +1,1 @@
+This is a simple collection of code representing dead projects I've removed through Spring Cleaning. Depending on what something is, I'm not really proud of it. Certain other things are only pieces of an entire project due to copy-right concerns.
